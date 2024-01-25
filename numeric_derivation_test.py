@@ -28,7 +28,7 @@ def test_derive2():
 def test_derive3():
     t_derive(len(tests))
 
-# to test the results locally, uncomment the following lines and run the file `python numeric_derivation_test.py`: 
+# To test the results locally, uncomment the following lines and run the file `python numeric_derivation_test.py`: 
 
 if __name__ == "__main__":
     test_derive()
